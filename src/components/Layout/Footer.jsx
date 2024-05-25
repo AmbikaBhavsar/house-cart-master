@@ -148,8 +148,8 @@ export default function Footer() {
           © 2021 Copyright:
           <a
             className="text-reset fw-bold"
-            href="https://karanmalviya.vercel.app/">
-            &nbsp;karanmalviya.vercel.app
+            href="https://house-cart-master.vercel.app/">
+            &nbsp;Ambikabhavsar.vercel.app
           </a>
         </div>
       </footer>
